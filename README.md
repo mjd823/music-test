@@ -1,2 +1,2 @@
-# MyTunes Landing Page
+# Landing Page
 
